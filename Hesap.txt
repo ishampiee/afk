@@ -1,0 +1,3 @@
+send /login afk3131_
+wait 3 seconds
+send sa
